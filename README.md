@@ -7,10 +7,9 @@
 
 ### Career path:
 
-2020 
-> * Received a bachelor's degree from SSU (Discrete Mathematics and Information Technology)
 
 2020 - 2021 
+> * Received a bachelor's degree from SSU (Discrete Mathematics and Information Technology)
 > * Completed an internship with training in backend development at the _Netcracker_, Saratov
 
 2021 - 2023
