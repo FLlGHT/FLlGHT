@@ -5,8 +5,12 @@
 [<img align="left" alt="fllght | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/f11ght)
 <br/>
 
-### Career path:
+<details>
 
+  
+<summary><b>Career path</b></summary>
+
+</br>
 
 2020 - 2021 
 > * Received a bachelor's degree from SSU (Discrete Mathematics and Information Technology)
@@ -19,3 +23,17 @@
 2023 - ...
 > * Backend developer (Recommendation system) at _Zen_, Moscow (ex-Yandex, now - VK)
 > * Backend developer at _VK_, Moscow (AI department)
+
+</details>
+
+<details>
+<summary><b>Skills</b></summary>
+
+  
+  ### Languages: 
+  > * Java
+  > * C++
+  > * JavaScript / TypeScript
+  > * HTML / CSS 
+
+</details>
