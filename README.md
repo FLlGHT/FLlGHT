@@ -34,6 +34,5 @@
   > * Java
   > * C++
   > * JavaScript / TypeScript
-  > * HTML / CSS 
 
 </details>
