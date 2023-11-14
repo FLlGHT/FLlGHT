@@ -18,11 +18,11 @@
 
 2021 - 2023
 > * Received a master's degree from SSU (Discrete Mathematics and Information Technology)
-> * Worked as a full stack developer (backend + frontend) in a _Cloud Solutions_, Saint Petersburg
+> * Worked as a full stack software engineer in a _Cloud Solutions_, Saint Petersburg
 
 2023 - ...
-> * Backend developer at _Zen_, Moscow (Recommendation system, ex-Yandex, now - VK)
-> * Backend developer at _VK_, Moscow (AI department)
+> * Backend software engineer at _Zen_, Moscow (Recommendation system, ex-Yandex, now - VK)
+> * Backend software engineer at _VK_, Moscow (AI department)
 
 </details>
 
