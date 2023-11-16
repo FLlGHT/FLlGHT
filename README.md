@@ -29,10 +29,12 @@
 <details>
 <summary><b>Skills</b></summary>
 
-  ### Languages: 
   > * Java
   > * C++
-  > * JavaScript / TypeScript
+  > * JS / TS
   > * SQL
+
+  > * Algorithms
+  > * Design patterns 
 
 </details>
