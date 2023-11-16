@@ -29,12 +29,18 @@
 <details>
 <summary><b>Skills</b></summary>
 
+</br>
+
   > * Java
   > * C++
   > * JS / TS
   > * SQL
 
+</br>
+
+
   > * Algorithms
   > * Design patterns 
 
+</br>
 </details>
