@@ -8,7 +8,7 @@
 <details>
 
   
-<summary><b>Career path</b></summary>
+<summary><b>Path</b></summary>
 
 </br>
 
