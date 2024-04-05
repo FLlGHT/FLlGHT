@@ -21,7 +21,7 @@
 > * Worked as a full stack software engineer in a _Cloud Solutions_, Saint Petersburg
 
 2023 - ...
-> * Backend software engineer at _Zen_, Moscow (Recommendation system, ex-Yandex, now - VK)
-> * Backend software engineer at _VK_, Moscow (AI department)
+> * Backend software engineer at _Zen_, Moscow (Recommendation system)
+> * Backend software engineer at _VK_, Moscow (Recommendation system)
 
 </details>
