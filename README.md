@@ -5,23 +5,4 @@
 [<img align="left" alt="fllght | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/f11ght)
 <br/>
 
-<details>
 
-  
-<summary><b>Path</b></summary>
-
-</br>
-
-2020 - 2021 
-> * Received a bachelor's degree from SSU (Discrete Mathematics and Information Technology)
-> * Completed an internship with training in backend development at the _Netcracker_, Saratov
-
-2021 - 2023
-> * Received a master's degree from SSU (Discrete Mathematics and Information Technology)
-> * Worked as a full stack software engineer in a _Cloud Solutions_, Saint Petersburg
-
-2023 - ...
-> * Software engineer at _Zen_, Moscow (Recommendation system)
-> * Software engineer at _VK_, Moscow (Recommendation system)
-
-</details>
